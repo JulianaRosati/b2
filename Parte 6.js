@@ -1,0 +1,1 @@
+Adicionando instrução via arquivo .js
